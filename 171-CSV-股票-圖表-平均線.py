@@ -1,6 +1,7 @@
 __author__ = "Powen Ko, www.powenko.com"
 """
 你好， 我是柯博文老師
+老師午安
 """
 
 import matplotlib.pyplot as plt
